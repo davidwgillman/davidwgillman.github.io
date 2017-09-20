@@ -17,8 +17,3 @@ The workshop will consist of three talks and two panels each day.
 
 Detailed schedule to appear.
 
- 
-#[Download schedule as pdf](timetable.pdf)
-
-#{% include timetable.html %}
-
