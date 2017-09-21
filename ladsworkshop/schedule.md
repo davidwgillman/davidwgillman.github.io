@@ -10,10 +10,10 @@ Friday, January 12 and Saturday January 13.
 The workshop will consist of three talks and two panels each day.
 
 ## Panel topics
-- Modernizing the undergraduate statistics curriculum
-- Consulting and Clinics, or Solving Other People's Data Problems
-- Data science in the CS curriculum
-- Educating data literate citizens
+- Statistics in the Data Science Curriculum
+- Computer Science in the Data Science Curriculum
+- Solving Other People's Data Problems: Consulting
+- Educating a Data Literate Generation 
 
 Detailed schedule to appear.
 
