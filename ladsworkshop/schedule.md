@@ -6,6 +6,10 @@ title: "LADS 2018: The 2018 Liberal Arts Data Science Workshop"
 ## When:
 Friday, January 12 and Saturday January 13.
 
+## Where:
+New College of Florida
+Sarasota FL
+
 ## General outline:
 The workshop will consist of three talks and two panels each day.
 
