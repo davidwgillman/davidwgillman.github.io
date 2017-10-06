@@ -10,13 +10,13 @@ Friday, January 12 and Saturday January 13, 2018.
 New College of Florida, Sarasota FL
 
 ## General outline:
-The workshop will consist of three talks and two panels each day.
+The workshop will consist of three or four talks and two panels each day.
 
 ## Panel topics
 - Statistics in the Data Science Curriculum
 - Computer Science in the Data Science Curriculum
 - Solving Other People's Data Problems: Consulting
 - Educating a Data Literate Generation 
-
+ 
 Detailed schedule to appear.
 
