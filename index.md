@@ -15,7 +15,7 @@ In the spring of 2014 I helped begin planning the structure and curriculum of th
 - [Ben Carothers](https://www.linkedin.com/in/btcrs/), 2017. "Building Monitored, Secured, And Self-sustaining IOT Hydroponic Gardens."
 - Vinushka Schalk, 2016, software engineer at Akamai Technologies, Inc. "Silicon Chemist 3: Guiding students through electron flow pathways", with a Web application for solving chemical reaction problems.
 - [David Weinstein](https://www.linkedin.com/in/davidhweinstein), 2015. "Infocatch: A more powerful feed provider built on Webscraping."
-- [Calvin Troutt] (https://www.linkedin.com/in/calvin-troutt-70b47357), 2015. "Competency Assessment and IRT", with a Web application for the New College Calculus readiness test. 
+- [Calvin Troutt](https://www.linkedin.com/in/calvin-troutt-70b47357), 2015. "Competency Assessment and IRT", with a Web application for the New College Calculus readiness test. 
 
 # Interests
 
