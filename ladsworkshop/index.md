@@ -4,7 +4,7 @@ title: "LADS 2018: The 2018 Liberal Arts Data Science Workshop"
 ---
 
 ## When:
-12-13 January 2018, New College of Florida, Sarasota FL
+12-13 January 2018, [New College of Florida](http://www.ncf.edu), Sarasota FL
 
 ## Information and Goal of the Workshop:  
 {::options parse_block_html="true" /}
@@ -14,6 +14,7 @@ Computer software is changing how we teach statistics. Data is changing how we t
 
 ## Confirmed Participants
 
+- Vetria Byrd, Purdue Polytechnic Institute
 - Weiqing Gu, Harvey Mudd College
 - Jessen Havill, Denison University
 - Katherine Halvorsen, Smith College
