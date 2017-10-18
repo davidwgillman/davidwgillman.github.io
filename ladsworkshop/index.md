@@ -20,3 +20,4 @@ Computer software is changing how we teach statistics. Data is changing how we t
 - Katherine Halvorsen, Smith College
 - Nicholas Horton, Amherst College
 - Julie Medero, Harvey Mudd College
+- Imad Rahal, College of Saint Benedict & Saint John's University
