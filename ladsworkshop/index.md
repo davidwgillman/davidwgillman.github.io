@@ -4,7 +4,8 @@ title: "LADS 2018: The 2018 Liberal Arts Data Science Workshop"
 ---
 
 ## When:
-12-13 January 2018, [New College of Florida](http://www.ncf.edu), Sarasota FL
+12-13 January 2018, [New College of Florida](http://www.ncf.edu), Sarasota FL. 
+[Directions](https://www.ncf.edu/admissions/visit-campus/maps-and-directions/)
 
 ## Information and Goal of the Workshop:  
 {::options parse_block_html="true" /}
