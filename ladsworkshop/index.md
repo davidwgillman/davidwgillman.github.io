@@ -4,8 +4,7 @@ title: "LADS 2018: The 2018 Liberal Arts Data Science Workshop"
 ---
 
 ## When:
-12-13 January 2018, [New College of Florida](http://www.ncf.edu), Sarasota FL. 
-[Directions](https://www.ncf.edu/admissions/visit-campus/maps-and-directions/)
+12-13 January 2018, [New College of Florida](http://www.ncf.edu), Sarasota FL
 
 ## Information and Goal of the Workshop:  
 {::options parse_block_html="true" /}
@@ -22,3 +21,6 @@ Computer software is changing how we teach statistics. Data is changing how we t
 - Nicholas Horton, Amherst College
 - Julie Medero, Harvey Mudd College
 - Imad Rahal, College of Saint Benedict & Saint John's University
+
+## [Directions](https://www.ncf.edu/admissions/visit-campus/maps-and-directions/)
+Sarasota-Bradenton International Airport (SRQ) is adjacent to New College.
