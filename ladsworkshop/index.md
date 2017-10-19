@@ -25,3 +25,6 @@ Computer software is changing how we teach statistics. Data is changing how we t
 
 ## [Directions](https://www.ncf.edu/admissions/visit-campus/maps-and-directions/)
 Sarasota-Bradenton International Airport (SRQ) is adjacent to New College.
+
+## Registration
+There is no fee to attend, but please register with [Nikita Bagley](nbagley@ncf.edu), Coordinator, New College Data Science Program.
