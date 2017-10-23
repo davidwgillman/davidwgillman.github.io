@@ -22,7 +22,7 @@ The workshop will consist of three or four talks and two panels each day.
 - Vetria Byrd, Purdue Polytechnic Institute, "The Role of Visualization Capacity Building in Data Science"
 - Weiqing Gu, Harvey Mudd College, "Experiences With Big Data Analytics in the Clinic and the Classroom at Harvey Mudd College"
 - Katherine Halvorsen, Smith College, "Incorporating student projects in the introductory statistics classes"
-- Jessen Havill, Denison University, Project-based approaches to teaching data analysis/data science
+- Jessen Havill, Denison University, "Projects first in an interdisciplinary data analytics curriculum"
 - Nicholas Horton, Amherst College, "Multivariate thinking and the introductory statistics and data science course: preparing students to make sense of a world of observational data"
 
 Final details to appear.
