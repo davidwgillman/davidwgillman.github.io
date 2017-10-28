@@ -15,16 +15,17 @@ Computer software is changing how we teach statistics. Data is changing how we t
 ## Confirmed Participants
 
 - KB Boomer, Bucknell University
-- Patricia Boyle-McKenna, City of Boston
 - Vetria Byrd, Purdue Polytechnic Institute
 - George Cobb, Mount Holyoke College
 - Weiqing Gu, Harvey Mudd College
 - Jessen Havill, Denison University
 - Katherine Halvorsen, Smith College
 - Nicholas Horton, Amherst College
+- Adam Loy, Carleton College
 - Brian MacDonald, Florida Panthers and Florida Atlantic University
 - Julie Medero, Harvey Mudd College
 - Imad Rahal, College of Saint Benedict & Saint John's University
+- Amy Wagaman, Amherst College
 - Jeff Witmer, Oberlin College
 
 ## [Directions](https://www.ncf.edu/admissions/visit-campus/maps-and-directions/)
