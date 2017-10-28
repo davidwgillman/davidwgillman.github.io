@@ -102,6 +102,20 @@ body {
 }
 
 #schedule {
+    /*clear:right;*/
+    /*margin-left:150px;*/
+    /*margin-top:0;*/
     text-align:center;
+    padding:10px;
+    background-color:#fff;
+    .resize {
+        width:200px;
+        height:200px;
+    }
+    .resize:hover {
+        height:900px;
+        width:900px;
+    }    /*position:absolute;
+     top:100px;
+     left:150px;*/
 }
-
