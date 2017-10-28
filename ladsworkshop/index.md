@@ -33,3 +33,9 @@ Sarasota-Bradenton International Airport (SRQ) is adjacent to New College.
 
 ## Registration
 There is no fee to attend, but please register with [Nikita Bagley](nbagley@ncf.edu), Coordinator, New College Data Science Program.
+
+## Hotels
+The [Hampton Inn](http://hamptoninn3.hilton.com/en/hotels/florida/hampton-inn-and-suites-sarasota-bradenton-airport-SRQATHX/index.html), [Hyatt Place](https://sarasotabradenton.place.hyatt.com/en/hotel/home.html), and [Courtyard Marriott](http://www.marriott.com/hotels/travel/srqcy-courtyard-sarasota-bradenton-airport/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2) are a 10-minute walk from New College. 
+
+## [New College](https:/www.ncf.edu)
+Attendees will have access to the New College [fitness center](https://www.ncf.edu/campus-life/health-safety-and-wellness-mind-body-and-spirit/fitness-center/).
