@@ -23,6 +23,6 @@ New College of Florida, Sarasota FL
 - Jessen Havill, Denison University, "Projects first in an interdisciplinary data analytics curriculum"
 - Nicholas Horton, Amherst College, "Multivariate thinking and the introductory statistics and data science course: preparing students to make sense of a world of observational data"
 
-## Schedule -- details to come
+## Schedule -- details to follow
 
 
