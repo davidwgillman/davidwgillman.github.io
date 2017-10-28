@@ -9,8 +9,6 @@ Friday, January 12 and Saturday January 13, 2018.
 ## Where:
 New College of Florida, Sarasota FL
 
-## [General outline](https://goo.gl/wyydgM)
-
 ## Panel topics
 - Statistics in the Data Science Curriculum
 - Computer Science in the Data Science Curriculum
@@ -25,5 +23,6 @@ New College of Florida, Sarasota FL
 - Jessen Havill, Denison University, "Projects first in an interdisciplinary data analytics curriculum"
 - Nicholas Horton, Amherst College, "Multivariate thinking and the introductory statistics and data science course: preparing students to make sense of a world of observational data"
 
-Final details to appear.
+## Schedule -- details to come
+
 
