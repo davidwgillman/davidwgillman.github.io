@@ -17,6 +17,7 @@ Computer software is changing how we teach statistics. Data is changing how we t
 - KB Boomer, Bucknell University
 - Vetria Byrd, Purdue Polytechnic Institute
 - George Cobb, Mount Holyoke College
+- Richard De Veaux, Williams College
 - Weiqing Gu, Harvey Mudd College
 - Jessen Havill, Denison University
 - Katherine Halvorsen, Smith College
