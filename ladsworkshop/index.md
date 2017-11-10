@@ -15,6 +15,7 @@ Computer software is changing how we teach statistics. Data is changing how we t
 ## Confirmed Participants
 
 - KB Boomer, Bucknell University
+- Patricia Boyle-McKenna, City of Boston
 - Vetria Byrd, Purdue Polytechnic Institute
 - George Cobb, Mount Holyoke College
 - Richard De Veaux, Williams College
