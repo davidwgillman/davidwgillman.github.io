@@ -9,6 +9,4 @@ Friday, January 12 and Saturday January 13, 2018.
 ## Where:
 New College of Florida, Sarasota FL
 
-## Schedule:
-
 ![schedule](schedule.png){:class="img-responsive" height="1320px" width="1020px"}
