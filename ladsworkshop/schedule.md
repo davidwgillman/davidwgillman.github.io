@@ -25,4 +25,4 @@ New College of Florida, Sarasota FL
 
 ## Schedule
 
-![schedule](schedule.pdf){:class="img-responsive" height="1000px" width="850px"}
+![schedule](Schedule.pdf){:class="img-responsive" height="1000px" width="850px"}
