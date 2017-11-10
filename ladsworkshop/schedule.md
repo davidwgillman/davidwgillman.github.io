@@ -15,8 +15,9 @@ New College of Florida, Sarasota FL
 - Solving Other People's Data Problems: Consulting
 - Educating a Data Literate Generation 
  
-## Preliminary talk titles/topics 
+## Talk titles/topics 
 - KB Boomer, Bucknell University, Writing in the introductory statistics course
+- Patricia Boyle-McKenna, City of Boston, Projects using municipal data
 - Vetria Byrd, Purdue Polytechnic Institute, "The role of visualization capacity building in data science"
 - Weiqing Gu, Harvey Mudd College, "Experiences with big data analytics in the Clinic and the classroom at Harvey Mudd College"
 - Katherine Halvorsen, Smith College, "Incorporating student projects in the introductory statistics classes"
