@@ -26,6 +26,7 @@ Computer software is changing how we teach statistics. Data is changing how we t
 - Manolis Kaparakis, Wesleyan University
 - Adam Loy, Carleton College
 - Brian MacDonald, Florida Panthers and Florida Atlantic University
+- Dennis F. X. Mathaisel, Babson College
 - Julie Medero, Harvey Mudd College
 - Imad Rahal, College of Saint Benedict & Saint John's University
 - Amy Wagaman, Amherst College
