@@ -4,7 +4,7 @@ title: "LADS 2018: The 2018 Liberal Arts Data Science Workshop"
 ---
 
 
-----
+****
 
 ### 9am Friday
 ### Multivariate thinking and the introductory statistics and data science course: preparing students to make sense of a world of observational data
