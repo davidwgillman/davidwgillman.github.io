@@ -12,7 +12,7 @@ title: "LADS 2018: The 2018 Liberal Arts Data Science Workshop"
 Computer software is changing how we teach statistics. Data is changing how we teach computer science. Software and data are becoming more relevant and accessible to researchers and students in social science and the humanities. This two-day workshop brings together statisticians and computer scientists to discuss how we are introducing data science at liberal arts colleges now and how we should integrate it in the future. The workshop is open to anyone interested in the topic.
 </p>
 
-## Confirmed Participants
+## Participants
 
 - KB Boomer, Bucknell University
 - Patricia Boyle-McKenna, City of Boston
