@@ -3,6 +3,9 @@ layout: conference
 title: "LADS 2018: The 2018 Liberal Arts Data Science Workshop"
 ---
 
+
+----
+
 ### 9am Friday
 ### Multivariate thinking and the introductory statistics and data science course: preparing students to make sense of a world of observational data
 <p>
@@ -14,6 +17,8 @@ We live in a world of ever expanding "found" (or observational) data. To make de
 Nicholas Horton is Professor of Statistics at Amherst College, with methodologic research interests in longitudinal regression models, missing data methods, and statistical computing.  He graduated from the Harvard TH Chan School of Public Health in 1999.  Nick has received the ASA's Founders Award, the Waller Education Award,  the William Warde Mu Sigma Rho Education Award, and the MAA Hogg Award for Excellence in Teaching.  He has published more than 160 papers, co-authored a series of four books on statistical computing and data science, and was co-PI on the NSF funded MOSAIC project.  Nick is a Fellow of the ASA and the AAAS, served as a member of the ASA Board, chairs the Committee of Presidents of Statistical Societies and is chaired the ASA Section on Statistical Education.  He is a member of the National Academies of Sciences Committee on Applied and Theoretical Statistics and two Academy studies on undergraduate data science education.
 </p>
 
+----
+
 ### 9:55am Friday
 ### Writing in the introductory statistics class
 <p>
@@ -23,6 +28,8 @@ Nicholas Horton is Professor of Statistics at Amherst College, with methodologic
 <p>
 </p>
 
+----
+
 ### 1:45pm Friday
 ### Projects first in an interdisciplinary data science curriculum
 <p>
@@ -31,6 +38,8 @@ Nicholas Horton is Professor of Statistics at Amherst College, with methodologic
 ### Jessen Havill, Denison University
 <p>
 </p>
+
+----
 
 ### 2:40pm Friday
 ### Experiences with big data analytics in the clinic and the classroom at Harvey Mudd College
@@ -43,6 +52,8 @@ The Data Explosion is changing how professors teach undergraduate students in ev
 <p>
 </p>
 
+----
+
 ### 9am Saturday
 ### Multivariate thinking and the introductory statistics and data science course: preparing students to make sense of a world of observational data
 <p>
@@ -51,6 +62,8 @@ The Data Explosion is changing how professors teach undergraduate students in ev
 ### Katherine Halvorsen, Smith College
 <p>
 </p>
+
+----
 
 ### 9:55am Saturday
 ### Projects using municipal data
@@ -61,6 +74,8 @@ The Data Explosion is changing how professors teach undergraduate students in ev
 <p>
 </p>
 
+----
+
 ### 1:45pm Saturday
 ### The role of visualization capacity building in data science
 <p>
@@ -69,6 +84,8 @@ The Data Explosion is changing how professors teach undergraduate students in ev
 ### Vetria Byrd, Purdue Polytechnic Institute
 <p>
 </p>
+
+----
 
 ### 2:40pm Saturday
 ### It may be deep, but is it learning?
@@ -90,6 +107,8 @@ referential emphasis on learning how to learn.
 ### George Cobb, Mt. Holyoke College
 <p>
 </p>
+
+----
 
 -
 - Vetria Byrd, Purdue Polytechnic Institute
