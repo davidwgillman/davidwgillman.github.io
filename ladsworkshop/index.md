@@ -29,7 +29,6 @@ Computer software is changing how we teach statistics. Data is changing how we t
 - Dennis F. X. Mathaisel, Babson College
 - Julie Medero, Harvey Mudd College
 - Imad Rahal, College of Saint Benedict & Saint John's University
-- Amy Wagaman, Amherst College
 - Jeff Witmer, Oberlin College
 
 ## [Directions](https://www.ncf.edu/admissions/visit-campus/maps-and-directions/)
