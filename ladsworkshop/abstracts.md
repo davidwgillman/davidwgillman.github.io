@@ -22,6 +22,7 @@ Nicholas Horton is Professor of Statistics at Amherst College, with methodologic
 #### 9:55am Friday
 #### Writing in the introductory statistics class
 <p>
+In statistics and data-science curricula, learning the how’s and why’s of methods is only a part of the larger picture.  An essential skill for our future practitioners will be the ability to communicate their results to broad audiences, both verbally and in writing.  As with any other skill, clear communication takes practice.  At Bucknell University our introductory statistics course is classified as a writing-intensive course.  We achieve this by emphasizing writing to learn, writing to explore, and writing to explain components throughout the course.  These learning opportunities allow students to express statistical concepts in their own words and to practice the use of precise statistical language.  The presentation will be interactive with the opportunity to explore existing prompts and to develop prompts to be used in one’s own course.
 </p>
 
 #### KB Boomer, Bucknell University
@@ -50,6 +51,7 @@ The Data Explosion is changing how professors teach undergraduate students in ev
 
 #### Weiqing Gu, Harvey Mudd College
 <p>
+Weiqing Gu, professor of mathematics and director of the Harvey Mudd College Mathematics Clinic, specializes in differential geometry and topology, with applications to Big Data analysis, computer-aided design and robotics. Her research on the geometry of a manifold (e.g., a sphere or a Grassmann manifold) and in computational geometry directly applies to Big data-to-decision, fundamental problems in dynamics, control theory, robotics and computer graphics. For example, Gu is currently investigating possible applications of differential geometry in anomaly detection and predictive models involving big data. She is also applying Lie Theory, Grassmann-Cayley algebra, and Riemannian geometry to Jacobi fields and geodesics on the Euclidean group and its subgroups, for the purpose of synthesizing smooth motions for computer animation and for planning optimal motions of robot manipulators. Gu also researches applications to math-biology and applications to industrial mathematics including optimal control, encryption, computer vision, and color scheme.
 </p>
 
 ----
