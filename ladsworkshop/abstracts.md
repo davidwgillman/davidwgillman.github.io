@@ -32,12 +32,14 @@ In statistics and data-science curricula, learning the how’s and why’s of me
 ----
 
 #### 1:45pm Friday
-#### Projects first in an interdisciplinary data science curriculum
+#### Projects first in an interdisciplinary data analytics curriculum
 <p>
+Let’s face it: most college students aren’t particularly motivated by the prospect of learning about “regression” or “for loops.”  To engage more (and more diverse) students, we need to appeal to their interests and the problems they want to solve.  This is also how most quantitative scientists came to data science, via problems they were passionate about.  Denison’s new Data Analytics major was created from the ground up with this awareness and is deeply interdisciplinary throughout.  For example, our introductory Data Analytics and Computer Science courses lead with applied questions, show how to answer them using mathematical and computational techniques, and then give students projects in which they can practice their skills.  Chosen carefully, leading with a sequence of applied topics covers the same ground as a traditional “methods first” course, but engages the students more effectively and facilitates learning by making concrete connections with prior knowledge in familiar contexts.
 </p>
 
 #### Jessen Havill, Denison University
 <p>
+Jessen Havill is a Professor of Computer Science and Benjamin Barney Chair of Mathematics at Denison University.  He is also the founding Director of Denison’s new interdisciplinary Data Analytics major.  Dr. Havill teaches courses across the computer science curriculum, as well as an interdisciplinary elective in Computational Biology.  In 2009, he developed a new problem-first, project-oriented introductory computer science course that led to the publication in 2016 of Discovering Computer Science:  Interdisciplinary Problems, Principles, and Python Programming.  He was awarded the college's highest teaching honor, the Charles A. Brickman Teaching Excellence Award, in 2013.  Dr. Havill's primary research interest is in the development and analysis of online algorithms. In addition, he has collaborated with colleagues in biology and geosciences to develop computational tools to support research and teaching in those fields. Dr. Havill earned his bachelor's degree from Bucknell University and his Ph.D. in Computer Science from The College of William and Mary.
 </p>
 
 ----
