@@ -59,11 +59,12 @@ Weiqing Gu, professor of mathematics and director of the Harvey Mudd College Mat
 ----
 
 #### 9am Saturday
-#### Incorporating student projects in the introductory statistics classes
+#### Incorporating student projects into the introductory statistics classes
 <p>
+Student projects in the introductory statistics class can fulfill the American Statistical Association’s recommendations for both what to teach and how to teach it.  Projects teach statistics as an investigative process.  Students must formulate a question, collect and analyze data, and interpret and present their results. The process requires students to think statistically and to understand and apply the concepts they learn in the course.  The project requires active engagement and hence constitutes active learning.  Students use technology to collect, store, share, clean, explore, and draw inferences from data.  Projects are inherently multivariate. Students receive regular assessments throughout the process. Some are verbal and some written, both from the instructors and from their peers through peer reviews. In this talk I will describe the requirements for the project proposals, the interim reports we collect, the project day posters and presentation guidelines, the poster and presentation evaluation sheets, and the form I use for feedback from each student about her contribution to the project and the contributions of every member of her team. I will also share some of our more successful project ideas.
 </p>
 
-#### Katherine Halvorsen, Smith College
+#### Katherine Taylor Halvorsen, Smith College
 <p>
 </p>
 
