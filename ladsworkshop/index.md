@@ -31,6 +31,8 @@ Computer software is changing how we teach statistics. Data is changing how we t
 - Imad Rahal, College of Saint Benedict & Saint John's University
 - Jeff Witmer, Oberlin College
 
+## [Slides from talks](https://github.com/mdogucu/Liberal-Arts-Data-Science)
+
 ## [Directions](https://www.ncf.edu/admissions/visit-campus/maps-and-directions/)
 The above link shows a map of New College. The Workshop will be held in Chae Auditorium, the hub of the three wings of the Heiser Science Building, 17 on the map. Breakfast and snacks will be served in the atrium of the east wing of Heiser (just built and not shown on the map). Friday lunch will be held in College Hall, 2 on the map. Saturday lunch will be held in Heiser east wing.
 
