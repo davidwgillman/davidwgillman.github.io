@@ -21,7 +21,7 @@ In the spring of 2014 I helped begin planning the structure and curriculum of th
 
 My recent research has been in discrete structures and mixing rates of Markov chains, health informatics, and Internet measurement.
 
-I'm organizing a workshop [LADS 2018](ladsworkshop) which will take place at New College January 12-13, 2018.
+Following the success of LADS 2018](ladsworkshop2018) my colleagues Melissa Crow and Bernhard Klingenberg and I are organizing LADS 2020](ladsworkshop2020) which will take place at New College January 10-11, 2018.
 
 # Employment
 
