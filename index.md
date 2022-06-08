@@ -49,4 +49,6 @@ I organized [LADS 2018](ladsworkshop2018), which took place at New College Janua
 
 1994-1996: Assistant Professor of Computer Science, University of Toronto
 
+# Education
+
 PhD 1993, MIT. Student of [Michael Sipser](http://www-math.mit.edu/~sipser).
