@@ -4,11 +4,11 @@ layout: main
 
 # About Me
 
-I teach in the undergraduate Computer Science program.
+I joined the faculty of New College in the fall of 2013 and I created the Computer Science Area of Concentration (AOC, or major) that academic year. As of 2024 the department has five regular faculty and about 60 students in the AOC.
 
-I joined the faculty of New College in the fall of 2013, and I defined the requirements for the Computer Science Area of Concentration (AOC, or major) that academic year. As of 2024 the department has five regular faculty and about 60 students in the AOC.
+Beginning in the spring of 2014 I helped define the structure and curriculum of the New College Data Science master's program. I taught regularly in the program from 2015 through 2021, and I contribute occasionally now. I organized [LADS 2018](ladsworkshop2018), which took place at New College January 10-11, 2018.
 
-In the spring of 2014 I helped plan the structure and curriculum of the New College Data Science master's program. The program began in January, 2016, and the first cohort of seven students graduated in May, I taught regularly in the program through 2021 and contribute occasionally now. I organized [LADS 2018](ladsworkshop2018), which took place at New College January 10-11, 2018.
+My recent research has been in music information retrieval, discrete structures and mixing rates of Markov chains, and Internet measurement.
 
 # Senior thesis students
 <details>
@@ -81,10 +81,6 @@ In the spring of 2014 I helped plan the structure and curriculum of the New Coll
 - [David Weinstein](https://www.linkedin.com/in/davidhweinstein), "Infocatch: A more powerful feed provider built on Webscraping."
 - [Calvin Troutt](https://www.linkedin.com/in/calvin-troutt-70b47357), "Competency Assessment and IRT", with a Web application for the New College Calculus readiness test. 
 </details>
-
-# Interests
-
-My recent research has been in music information retrieval, discrete structures and mixing rates of Markov chains, and Internet measurement.
 
 # Employment
 
