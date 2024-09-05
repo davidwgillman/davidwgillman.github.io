@@ -80,6 +80,7 @@ In the spring of 2014 I helped plan the structure and curriculum of the New Coll
 
 - [David Weinstein](https://www.linkedin.com/in/davidhweinstein), "Infocatch: A more powerful feed provider built on Webscraping."
 - [Calvin Troutt](https://www.linkedin.com/in/calvin-troutt-70b47357), "Competency Assessment and IRT", with a Web application for the New College Calculus readiness test. 
+</details>
 
 # Interests
 
