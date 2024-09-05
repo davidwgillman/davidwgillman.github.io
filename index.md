@@ -14,12 +14,12 @@ In the spring of 2014 I helped plan the structure and curriculum of the New Coll
 <details>
   <summary>2024</summary>
 
-    - [Ahmet Cemek](https://www.linkedin.com/in/samicemek/), 2024. "Studying The Effects Of Score Differential On Offensive Output When Evaluating Team Performance In Soccer."
-    - [Hunter Chasens](https://www.linkedin.com/in/hunter-chasens/), 2024. "The Discovery, Disclosure, and Investigation of cve-2024-25825."
-    - [Zachary East](https://www.linkedin.com/in/zachary-east/), 2024. "Effects of COVID-19 on the PC and PC Games Market: An Analysis of Time Use."
-    - [Chloe Jones](https://www.linkedin.com/in/chloe-jones-b165b1270/), 2024. "OCR of Greek."
-    - [Sebastian Mark](https://www.linkedin.com/in/sebastian-mark-89a95322/), 2024. "Sleep."
-    - [Damien Razdan](https://www.linkedin.com/in/damien-razdan-4258581aa/), 2024. "Honorguard: A Visual Novel/RPG Experience."
+- [Ahmet Cemek](https://www.linkedin.com/in/samicemek/), 2024. "Studying The Effects Of Score Differential On Offensive Output When Evaluating Team Performance In Soccer."
+- [Hunter Chasens](https://www.linkedin.com/in/hunter-chasens/), 2024. "The Discovery, Disclosure, and Investigation of cve-2024-25825."
+- [Zachary East](https://www.linkedin.com/in/zachary-east/), 2024. "Effects of COVID-19 on the PC and PC Games Market: An Analysis of Time Use."
+- [Chloe Jones](https://www.linkedin.com/in/chloe-jones-b165b1270/), 2024. "OCR of Greek."
+- [Sebastian Mark](https://www.linkedin.com/in/sebastian-mark-89a95322/), 2024. "Sleep."
+- [Damien Razdan](https://www.linkedin.com/in/damien-razdan-4258581aa/), 2024. "Honorguard: A Visual Novel/RPG Experience."
 </details>
 
 - [Devon Gardner](https://www.linkedin.com/in/devon-gardner/), 2023. "Exploring Robot Kinematics: an Engineering Approach."
