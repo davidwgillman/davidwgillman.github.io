@@ -48,7 +48,7 @@ My recent research has been in music information retrieval, discrete structures 
 
 - [Serena Bonci](https://www.linkedin.com/in/serenaebonci/), "Using Sustainable Development to Mitigate and Respond to Climate Change: A Data Analysis of Climate Change in Taiwan using R."
 - [Rain Kwan](https://www.linkedin.com/in/rain-kwan/), "Clustering Heart Disease Patients Using Machine Learning."
-- [Thomas J. Maranzatto](https://tmaran2.people.uic.edu/), "Tree Traced Reconstruction: Some Results."
+- [Thomas J. Maranzatto](https://tmaran2.people.uic.edu/), "Tree Trace Reconstruction: Some Results."
 - [Dylan Purvis](https://www.linkedin.com/in/dylan-purvis-853b25b7/), "Raspberry Pi Granular Synthesizer."
 - [Erik Ridd](https://www.linkedin.com/in/erik-c-ridd/), "Circus Lyfe: A Narrative Life Simulation Game."
 </details>
