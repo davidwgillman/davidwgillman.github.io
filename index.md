@@ -11,7 +11,7 @@ Beginning in the spring of 2014 I helped define the structure and curriculum of 
 My recent research has been in music information retrieval, discrete structures and mixing rates of Markov chains, and Internet measurement.
 
 # Senior thesis students
-<details>
+<details markdown=1>
   <summary>2024 (6)</summary>
 
 - [Ahmet Cemek](https://www.linkedin.com/in/samicemek/), "Studying The Effects Of Score Differential On Offensive Output When Evaluating Team Performance In Soccer" (with Prof. Andrey Skripnikov).
