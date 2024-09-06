@@ -21,21 +21,21 @@ My recent research has been in music information retrieval, discrete structures 
 - [Sebastian Mark](https://www.linkedin.com/in/sebastian-mark-89a95322/), "Sleep."
 - [Damien Razdan](https://www.linkedin.com/in/damien-razdan-4258581aa/), "Honorguard: A Visual Novel/RPG Experience."
 </details>
-<details>
+<details markdown=1>
   <summary>2023 (3)</summary>
 
 - [Devon Gardner](https://www.linkedin.com/in/devon-gardner/), "Exploring Robot Kinematics: an Engineering Approach."
 - [Robert Kleszczynski](https://www.linkedin.com/in/robert-kleszczynski/), "Play it for me. A Study in Melodic Password Usability."
 - [Vlad Tsimoshchanka](https://www.linkedin.com/in/vlad-tsimoshchanka-91a244217/), "Logos Sanctum: Endless Tomes of Knowledge You Create."
 </details>
-<details>
+<details markdown=1>
   <summary>2022 (3)</summary>
 
 - [Jacob Adkins](https://www.linkedin.com/in/jacob-adkins99/), "Single-Agent and Multi-Agent Bandits."
 - [Atalay Kutlay](https://www.linkedin.com/in/atalay-kutlay/), "Effects Of Multicollinearity in Variable Selection Algorithms" (with Prof. Andrey Skripnikov).
 - [Austin LoPresto](https://www.linkedin.com/in/austin-lopresto/), "Automated Modernization of Shakespearean English: Using Natural Language Processing to Capture Writing Style."
 </details>
-<details>
+<details markdown=1>
   <summary>2021 (4)</summary>
 
 - [Trevor Flint](https://www.linkedin.com/in/trevor-flint-b2a194210/), "Creating a Hero Recommender System for Newer Players in DOTA 2."
@@ -43,7 +43,7 @@ My recent research has been in music information retrieval, discrete structures 
 - [Peter Chief Nelson](https://www.linkedin.com/in/chief-nelson-965a3a180/), "Making a First-Person Shooter in Unity."
 - [Maria Shehata](https://www.linkedin.com/in/mariashehata/), "Group Delivery iOS App."
 </details>
-<details>
+<details markdown=1>
   <summary>2020 (5)</summary>
 
 - [Serena Bonci](https://www.linkedin.com/in/serenaebonci/), "Using Sustainable Development to Mitigate and Respond to Climate Change: A Data Analysis of Climate Change in Taiwan using R."
@@ -52,30 +52,30 @@ My recent research has been in music information retrieval, discrete structures 
 - [Dylan Purvis](https://www.linkedin.com/in/dylan-purvis-853b25b7/), "Raspberry Pi Granular Synthesizer."
 - [Erik Ridd](https://www.linkedin.com/in/erik-c-ridd/), "Circus Lyfe: A Narrative Life Simulation Game."
 </details>
-<details>
+<details markdown=1>
   <summary>2019 (2)</summary>
 
 - [Andrey Leonov](https://www.linkedin.com/in/andrew-leonov-612863191/), "IN RUST WE TRUST: Integrating Rust code into a C codebase on MINIX 3."
 - Diana Tarazi, software engineer at MasterCard. "NCF Mobile: A Mobile Application to Provide Centralized Information About Services and Resources at New College."
 </details>
-<details>
+<details markdown=1>
   <summary>2018 (1)</summary>
 
 - Sarah Cohen, "You Will Be Wrong a Lot, and That’s OK: An Introduction to Computational Thinking and Other Life Skills."
 </details>
-<details>
+<details markdown=1>
   <summary>2017 (3)</summary>
 
 - [David Duffrin](https://www.linkedin.com/in/david-duffrin-26b4274b/), "Estimating the Pronunciation of Japanese Kanji." 
 - [Ben Carothers](https://www.linkedin.com/in/btcrs/), "Building Monitored, Secured, And Self-sustaining IOT Hydroponic Gardens."
 - [Sarah Russell](https://www.linkedin.com/in/sarah-russell-457478b5/), "Gambit of One: Game Development and the Role-Playing Game."
 </details>
-<details>
+<details markdown=1>
   <summary>2016 (1)</summary>
 
 - Vinushka Schalk, software engineer at Akamai Technologies, Inc. "Silicon Chemist 3: Guiding students through electron flow pathways", with a Web application for solving chemical reaction problems.
 </details>
-<details>
+<details markdown=1>
   <summary>2015 (2)</summary>
 
 - [David Weinstein](https://www.linkedin.com/in/davidhweinstein), "Infocatch: A more powerful feed provider built on Webscraping."
