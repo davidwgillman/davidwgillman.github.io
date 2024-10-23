@@ -84,7 +84,7 @@ My recent research has been in music information retrieval, discrete structures 
 
 # Employment
 
-2013-present: Assistant Professor of Computer Science, New College of Florida
+2013-present: Associate Professor of Computer Science, New College of Florida (tenured 2019)
 
 2000-present: Architect/Senior Architect, Akamai Technologies, Inc.
 
@@ -95,3 +95,5 @@ My recent research has been in music information retrieval, discrete structures 
 # Education
 
 PhD 1993, MIT. Student of [Michael Sipser](http://www-math.mit.edu/~sipser).
+
+# CV
