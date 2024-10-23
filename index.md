@@ -96,4 +96,4 @@ My recent research has been in music information retrieval, discrete structures 
 
 PhD 1993, MIT. Student of [Michael Sipser](http://www-math.mit.edu/~sipser).
 
-<a href="davidwgillman.github.io/_pdf/cv_research.pdf" target="_blank">CV</a>
+<a href="_pdf/cv_research.pdf" target="_blank">CV</a>
